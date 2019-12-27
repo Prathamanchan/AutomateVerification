@@ -1,0 +1,37 @@
+
+/home/karmic/Desktop/iVerification/ams_bulk_25122019/xrun.log
+WARNING: Be careful what you wish for. ... 
+TIME: Lost time is never found again. ... 
+END: This is just the beginning
+
+--------------------------------------------------------------------------------------------------------
+
+/home/karmic/Desktop/iVerification/ams_nmos_25122019/xrun.log
+WARNING: Be careful what you wish for. ... 
+TIME: Lost time is never found again. ... 
+END: This is just the beginning
+
+--------------------------------------------------------------------------------------------------------
+
+/home/karmic/Desktop/iVerification/ams_mos_25122019/xrun.log
+WARNING: Be careful what you wish for. ... 
+TIME: Lost time is never found again. ... 
+END: This is just the beginning
+
+--------------------------------------------------------------------------------------------------------
+
+/home/karmic/Desktop/iVerification/ams_bulky_25122019/xrun.log
+WARNING: Be careful what you wish for. ... 
+TIME: Lost time is never found again. ... 
+END: This is just the beginning
+
+--------------------------------------------------------------------------------------------------------
+
+/home/karmic/Desktop/iVerification/ams_pmos_25122019/xrun.log
+WARNING: Be careful what you wish for. ... 
+TIME: Lost time is never found again. ... 
+END: This is just the beginning
+
+--------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------
