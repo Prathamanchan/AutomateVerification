@@ -1,0 +1,7 @@
+ERROR:  Error is not a fault of our knowledge, but a mistake of our judgment
+WARNING: Be careful what you wish for. ... 
+TIME: Lost time is never found again. ... 
+END: This is just the beginning
+
+ for d in */; do cp xrun.log "$d"; done
+
